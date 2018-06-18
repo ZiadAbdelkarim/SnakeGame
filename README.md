@@ -1,2 +1,7 @@
 # SnakeGame
-Snake game coded using Java
+A recreation of the world famous game implemented using the javax.swing package. 
+
+Rules:
+1. W, A, S, D, to begin game, and restart upon death. 
+2. Walls are your friend. 
+3. Snake speed increases every 10 points. 
