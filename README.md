@@ -1,5 +1,5 @@
 # SnakeGame
-A recreation of the world famous game implemented using the javax.swing package. 
+A recreation of the world famous game implemented using the javax.swing toolkit. 
 
 Rules:
 1. W, A, S, D, to begin game, and restart upon death. 
